@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 
 # Loading Gambar
-file = "./spiderman.jpg"
+file = "./Me.JPG"
 img = cv2.imread(file)
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 plt.imshow(img)

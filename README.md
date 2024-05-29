@@ -5,4 +5,4 @@ file Berada di `tugas.py`
 
 Berikut Hasinya :
 
-![Spiderman ](./Figure_1.png)
+![Spiderman ](./Hasil.jpg)
